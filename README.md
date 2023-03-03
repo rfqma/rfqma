@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👦 - a 20yo Minimalist. Digital Native, Photography and Videography Enthusiast. <br>🏫 - Undergraduate student majoring on Informatics Engineering.</p>
+<p align="left">👦 a 20yo Minimalist. Digital Native, Photography and Videography Enthusiast. <br>🏫 Undergraduate student majoring on Informatics Engineering.</p>
 
 ###
 
