@@ -25,8 +25,7 @@
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
-<img align="right" height="150" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=c7qyvs7q4n1jy910w6n5kbsnj&redirect=true" />
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=c7qyvs7q4n1jy910w6n5kbsnj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+<img align="right" height="150" src="[https://spotify-github-profile.vercel.app/api/view.svg?uid=c7qyvs7q4n1jy910w6n5kbsnj&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" />
 
 ###
 
