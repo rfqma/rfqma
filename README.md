@@ -27,13 +27,14 @@
 </div>
 
 ###
-
+<div align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfqma&theme=dark" height="" alt="languages graph"  />
 </div>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfqma&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
 </div>
+  </div>
 
 ###
 
