@@ -54,6 +54,6 @@
 <br />
 <div align="center">
   <a href="https://open.spotify.com/user/c7qyvs7q4n1jy910w6n5kbsnj" target="_blank">
-    <img width="300" height="300" src="https://spotify-recently-played-readme.vercel.app/api?user=c7qyvs7q4n1jy910w6n5kbsnj">
+    <img width="400" height="400" src="https://spotify-recently-played-readme.vercel.app/api?user=c7qyvs7q4n1jy910w6n5kbsnj">
     </a>
 </div>
