@@ -27,13 +27,8 @@
 </div>
 
 ###
-<div align="right">
-
-<br />
 
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-
-</div>
 
 ###
 
