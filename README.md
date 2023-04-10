@@ -4,7 +4,7 @@
 
 <div style="display:flex">
 <p align="left">👦 a 20yo Minimalist. Digital Native, Photography and Videography Enthusiast. <br>🏫 Undergraduate student majoring on Informatics Engineering.</p>
-  <img height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
+  <img align="right" height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
 </div>
 
 
