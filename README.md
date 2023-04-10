@@ -30,7 +30,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfqma&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfqma&hide_progress=true" height="" alt="languages graph"  />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfqma&hide_progress=true&theme=dark" height="" alt="languages graph"  />
 </div>
 
 ###
