@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/rifqi-maulana-541a88227/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  [![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/rfqma)
 </div>
 
 ###
@@ -49,6 +50,5 @@
 ###
 
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-  <img width="320" height="445" src="https://spotify-recently-played-readme.vercel.app/api?user=c7qyvs7q4n1jy910w6n5kbsnj">
   
 
