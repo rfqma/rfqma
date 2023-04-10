@@ -28,10 +28,6 @@
 
 ###
 
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfqma&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
   <br />
@@ -49,4 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
 </div>
+
+###
+
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=c7qyvs7q4n1jy910w6n5kbsnj&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 
