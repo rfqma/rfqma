@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="center">⚒️ tools and languages ⚒️</h3>
+<h3 align="center">tools</h3>
 
 ###
 
