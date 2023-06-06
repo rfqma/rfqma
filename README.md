@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Rifqi Maulana</h2>
+<h2 align="left">Hi, I'm Rifqi Maulana</h2>
 
 ###
 
