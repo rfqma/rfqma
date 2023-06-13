@@ -24,7 +24,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="left">
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfqma&theme=dark" height="" alt="languages graph"  />
   </div>
