@@ -2,10 +2,10 @@
 
 ###
 
-<div style="display:flex">
+<!-- <div style="display:flex">
 <p align="left">a 20yo Minimalist, Digital Native, Photography and Videography Enthusiast. <br>Undergraduate student majoring on Informatics Engineering.</p>
   <img align="right" height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
-</div>
+</div> -->
 
 
 ###
