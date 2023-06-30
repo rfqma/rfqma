@@ -40,6 +40,11 @@
 </div>
 
 ###
+
+<h3 align="left">stats</h3>
+
+###
+
 <div align="left">
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfqma&theme=dark" height="" alt="languages graph"  />
