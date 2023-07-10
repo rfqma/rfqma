@@ -6,7 +6,6 @@
 </div> -->
 
 <h3 align="left">connect with me thru</h3>
-###
 
 <div align="left">
   <a href="mailto:rifqimaulanax@gmail.com" target="_blank">
@@ -15,7 +14,6 @@
 </div>
 
 <h3 align="left">my stats so far</h3>
-###
 
 <div align="left">
   <div align="left">
@@ -26,7 +24,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfqma&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
   </div>
 </div>
-###
 
 <!-- <div align="center">
   <a href="https://open.spotify.com/user/c7qyvs7q4n1jy910w6n5kbsnj" target="_blank">
