@@ -1,30 +1,20 @@
 <h2 align="left">Hi, I'm Rifqi Maulana</h2>
 
-###
-
 <!-- <div style="display:flex">
 <p align="left">a 20yo Minimalist, Digital Native, Photography and Videography Enthusiast. <br>Undergraduate student majoring on Informatics Engineering.</p>
   <img align="right" height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
 </div> -->
 
-
-###
-
 <h3 align="left">connect with me thru</h3>
-
 ###
 
 <div align="left">
   <a href="mailto:rifqimaulanax@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<!--   <a href="https://www.linkedin.com/in/rifqi-maulana-541a88227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> -->
 </div>
 
-<h3 align="left">stats</h3>
-
+<h3 align="left">my stats so far</h3>
 ###
 
 <div align="left">
@@ -36,11 +26,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rfqma&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
   </div>
 </div>
-
-
-
-
-
 ###
 
 <!-- <div align="center">
