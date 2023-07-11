@@ -5,7 +5,7 @@
   <img align="right" height="150" src="https://media.tenor.com/ciszZYuoUhQAAAAd/hodaka-morishima.gif"  />
 </div> -->
 
-<h3 align="left">connect with me thru</h3>
+<h3 align="left">reach me thru</h3>
 
 <div align="left">
   <a href="mailto:rifqimaulanax@gmail.com" target="_blank">
