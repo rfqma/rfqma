@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Rifqi Maulana 👋</h2>
+<h2 align="left">Hi👋</h2>
 
 <!-- <div style="display:flex">
 <p align="left">a 20yo Minimalist, Digital Native, Photography and Videography Enthusiast. <br>Undergraduate student majoring on Informatics Engineering.</p>
